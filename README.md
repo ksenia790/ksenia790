@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ksenia
+- 👋 Hi, I’m Sena(for close friends Ksyu, for some of friends Ksenia)
 - 👀 I’m interested in learning new
 - 🌱 I’m currently learning Pthon, HTML, CSS, starting SQL and Flask
 - 💞️ I want to collaborate to gain programming experience!
