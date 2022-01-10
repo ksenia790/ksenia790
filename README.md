@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sena(for close friends Ksyu)
+- 👋 Hi, I’m Ksenia(for close friends Ksyu)
 - 👀 I’m interested in learning new
-- 🌱 I’m currently learning Pthon, HTML, CSS, starting SQL and Flask
+- 🌱 Working hard to being Python developer
 - 💞️ I want to collaborate to gain programming experience!
 - 📫 How to reach me ksenia790@mail.ru
 
