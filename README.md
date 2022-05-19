@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ksenia(for close friends Ksyu)
 - 👀 I’m interested in learning new
-- 🌱 Working hard to being Python developer
+- 🌱 Working hard to find my first job as a python developer
 - 💞️ I want to collaborate to gain programming experience!
-- 📫 How to reach me ksenia790@mail.ru
+- 📫 How to reach me irbis.mr@gmail.com
 
 "When the fox hears the rabbit scream, he comes running. But not to help."Hannibal Lecter
 <!---
